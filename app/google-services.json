@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "244590700320",
+    "firebase_url": "https://nhantin-e1204.firebaseio.com",
+    "project_id": "nhantin-e1204",
+    "storage_bucket": "nhantin-e1204.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244590700320:android:772b0641bd6466a1709945",
+        "android_client_info": {
+          "package_name": "com.example.nhantin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244590700320-6dffp42l3ao6tv7ibo8d6p1mutbjsem6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nhantin",
+            "certificate_hash": "848c77f97cab685978630525fcfc534344630740"
+          }
+        },
+        {
+          "client_id": "244590700320-r1sj5d80g58vbakc47cu392jsaf6vuuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgdc0eBnkw_FAJmSwgOxDEj0Bi9ZOKVG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244590700320-r1sj5d80g58vbakc47cu392jsaf6vuuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244590700320:android:e17ee4854d7ec8e9709945",
+        "android_client_info": {
+          "package_name": "vn.edu.stu.hippochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244590700320-r1sj5d80g58vbakc47cu392jsaf6vuuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgdc0eBnkw_FAJmSwgOxDEj0Bi9ZOKVG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244590700320-r1sj5d80g58vbakc47cu392jsaf6vuuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
